@@ -21,6 +21,6 @@ I have used different technologies such as Python, Amazon Web Services (AWS), Ap
 
 
 ## Dataset Used
-I would have used any dataset but as I was mainly interested in operation side of Data Engineering (building data pipeline), I have used this dataset - https://github.com/Vruditdp/Kafka-Data-Pipeline-on-AWS/new/master?readme=1#:~:text=commands.txt-,indexProcessed,-.csv
+I would have used any dataset but as I was mainly interested in operation side of Data Engineering (building data pipeline), I have used this dataset - https://github.com/Vruditdp/Kafka-Data-Pipeline-on-AWS/blob/master/indexProcessed.csv
 
 
